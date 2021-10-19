@@ -1,0 +1,5 @@
+# Hidden folders
+.*
+./
+workspace.code-workspace
+*.log

@@ -1,9 +1,7 @@
 #include <esp32-hal-log.h>
 
 #include <stdio.h>
-
 #include <vector>
-#include <functional>
 
 #include <telnet_server.h>
 
